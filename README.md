@@ -1,6 +1,6 @@
 # Sentiment Analyzer Demo
 
-![Sentiment Analyzer](Images/project1.png.png)
+![Sentiment Analyzer](main/project1.png.png)
 
 ## Overview
 Hi, I'm Atul 👋, a B.Tech CSE passionate about **AI & ML**, **Data Science**, and **Cybersecurity & Ethical Hacking**.  
