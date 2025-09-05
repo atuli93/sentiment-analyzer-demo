@@ -3,7 +3,7 @@
 ![Sentiment Analyzer](Images/project1.png.png)
 
 ## Overview
-Hi, I'm Atul 👋, a BCA student passionate about **AI & ML**, **Data Science**, and **Cybersecurity & Ethical Hacking**.  
+Hi, I'm Atul 👋, a B.Tech CSE passionate about **AI & ML**, **Data Science**, and **Cybersecurity & Ethical Hacking**.  
 
 This project is a **Sentiment Analyzer**, a web-based demo that predicts the sentiment of a text input as **Positive, Negative, or Neutral** using machine learning techniques.  
 
