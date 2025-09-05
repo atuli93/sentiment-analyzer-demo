@@ -1,6 +1,6 @@
 # Sentiment Analyzer Demo
 
-![Sentiment Analyzer](main/project1.png.png)
+![Sentiment Analyzer](https://github.com/atuli93/sentiment-analyzer-demo/blob/main/project1.png.png?raw=true)
 
 ## Overview
 Hi, I'm Atul 👋, a B.Tech CSE passionate about **AI & ML**, **Data Science**, and **Cybersecurity & Ethical Hacking**.  
